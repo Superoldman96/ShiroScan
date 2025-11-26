@@ -27,4 +27,4 @@ burp插件 Shiroscan 主要用于框架、无dnslog key检测
 - 修复检测完key后列表才会显示,现在检测到为shiro框架后回先将url添加到列表中，等到key检测完再将key检测的结果更新
 
 
-师傅们在使用过程中遇到问题请及时反馈。感谢。
+该工具最近看着有很多star 历史上已经合并到https://github.com/pmiaowu/BurpShiroPassiveScan项目里了，用这个吧。
