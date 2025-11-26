@@ -3,6 +3,8 @@ burp插件 Shiroscan 主要用于框架、无dnslog key检测
 
 无dnslog检测基于https://mp.weixin.qq.com/s/do88_4Td1CSeKLmFqhGCuQ
 
+该工具最近看着有很多star 历史上已经合并到https://github.com/pmiaowu/BurpShiroPassiveScan项目里了，用这个吧。
+
 # 免责声明
 该工具仅用于安全自查检测
 
